@@ -2,7 +2,7 @@
 
 A roundup of push notification services for mobile apps.
 
-Many push notification service provider include additional features, including backend data, analytics, user account management and other integrated services.
+Many push notification service providers include additional features including backend data, analytics, user account management and other integrated services.
 
 ## A quick listing of push platforms
 
