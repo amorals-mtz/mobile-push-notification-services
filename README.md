@@ -7,6 +7,7 @@ Many push notification service provider include additional features, including b
 ## A quick listing of push platforms
 
 * [Parse Push](http://parse.com/products/push)
+* [Pushwoosh](http://pushwoosh.com)
 * [Urban Airship Push Messaging](http://urbanairship.com)
 
 ## Mobile support for push notifications
@@ -26,6 +27,13 @@ Website: [http://parse.com/products/push](http://parse.com/products/push)
 
 * Can push to APNS, GCM
 * Supports iOS, Android (for receiving push)
+
+### Pushwoosh
+
+Website: [http://pushwoosh.com](http://pushwoosh.com)
+
+* Can push to APNS, GCM
+* Support iOS, Android, Nokia, Windows Phone, Blackberry, Appcelerator Titanium, Phonegap, Corona, Unity, Adobe Air, Marmalade, Mac OS X
 
 ### Urban Airship Push Messaging
 
